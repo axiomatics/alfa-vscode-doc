@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://example.com/alfa-vscode-doc/sitemap/sitemap-index.xml
+Host: https://example.com
