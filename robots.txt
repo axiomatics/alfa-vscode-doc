@@ -1,3 +1,4 @@
 User-agent: *
-Sitemap: https://example.com/alfa-vscode-doc/sitemap/sitemap-index.xml
-Host: https://example.com
+Allow: /
+Sitemap: https://axiomatics.github.io/alfa-vscode-doc/sitemap/sitemap-0.xml
+Host: https://axiomatics.github.io
